@@ -28,8 +28,9 @@ smaltcy's WebGPU graph renderer only in smaltcy. An app that wanted either had t
 4. **Pinned, like the apps.** smaltgl depends on `smaltkit` at a commit. Until the kit's change is merged into
    stenhoor/smaltkit, that is a commit of the fork it was written on (`github:apbeers/smaltkit`, branch
    `claude/blissful-bohr-5k2i1i`); then the pin moves to stenhoor/smaltkit.
-5. **The product moves to stenhoor/smalt-geo.** What isn't drawing code (the docs, the demo, the datasets, the host
-   plugins, the browser tests) moves from `apbeers/smalt-Kepler-gl`, where it started, to `stenhoor/smalt-geo`.
+5. **The product moves to stenhoor/smalt-geo** (since renamed `stenhoor/smaltgl`, amended 2026-11-15; the old address
+   redirects). What isn't drawing code (the docs, the demo, the datasets, the host plugins, the browser tests) moves
+   from `apbeers/smalt-Kepler-gl`, where it started, to `stenhoor/smalt-geo`.
 
 ## Consequences
 
